@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayan4-dot
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning PHP & MySql
+- 🌱 I’m currently learning OOP
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I adore my pillow
