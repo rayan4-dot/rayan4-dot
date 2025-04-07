@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayan4-dot
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Laravel/Rest_Api
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 
