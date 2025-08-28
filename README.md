@@ -1,14 +1,13 @@
-# Rayan Elguerdaoui - GitHub Profile README
+# Rayan Elguerdaoui
 
-![Banner](https://via.placeholder.com/800x200)
 
 ## 🚀 About Me
 
-Hi there! 👋 I'm Rayan Elguerdaoui, a passionate software developer with a focus on web development. My GitHub journey began in June 2023, and since then, I have been actively coding and creating a variety of projects in languages like JavaScript, PHP, CSS, and HTML. Join me as I explore the world of technology through my projects and contributions.
+Hi there! 👋 I'm Rayan Elguerdaoui, a passionate software developer with a focus on web development. My GitHub journey began in October 2023, and since then, I have been actively coding and creating a variety of projects in languages like JavaScript, PHP, Next.js.   Join me as I explore the world of technology through my projects and contributions.
 
 ## 🌟 Skills
 
-- **Web Development**: Laravel, React, Next.js
+- **Web & App Development**: Laravel, React, Next.js, React Native
 - **Software Development**: Node.js, Java, Docker
 - **Database Management**: MySQL, MongoDB
 - **Version Control**: Git & Github actions
